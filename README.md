@@ -1,1 +1,2 @@
-# CS304-Olympic-Database
+# 304-olympics
+CPSC 304 Project - Olympics Database
